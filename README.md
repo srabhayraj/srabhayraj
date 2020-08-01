@@ -3,12 +3,10 @@
 ### :open_book: :books: Area of Expertise :closed_book: :green_book:
 
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vagrant/vagrant.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kubernetes/kubernetes.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/maven/maven.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terraform/terraform.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
@@ -19,22 +17,24 @@
 
 | Position | Organization | Timeline |
 | :-: | :-: | :-: |
-| Developer Evangelist | [@statusneo](https://statusneo.com) | June 2020 - Present |
-| DevOps Intern | [@xebia](https://xebia.com/) | April 2020 - June 2020 |
-| Mentor for RGSoC 2020 | [@OpenGenus](github.com/OpenGenus) | Feb 2020 - June 2020 |
-| Software Developer Intern | [@OpenGenus](github.com/OpenGenus) | July 2019 - Sept 2019 |
-| Project Development Lead | [@upes-open](https://github.com/upes-open) | Janu 2019 - June 2019 |
+| Cloud Intern | [LinuxWorld Informatics Pvt. Ltd.](https://www.linuxworldindia.org) | May 2020 - present |
+| Flutter Intern | [LinuxWorld Informatics Pvt. Ltd.](https://www.linuxworldindia.org) | July 2020 - present |
+| Summer Research Intern | [LinuxWorld Informatics Pvt. Ltd.](https://www.linuxworldindia.org) | June 2019 - August 2019 |
+| Docker Intern | [LinuxWorld Informatics Pvt. Ltd.](https://www.linuxworldindia.org) | March 2020 - May 2020 |
+| Software Engineering Virtual Internship | [JPMorgan Chase & Co.](https://www.insidesherpa.com)
 
 
 ### Achievements and Milestones :crown:
 
-:1st_place_medal:	University Top Ranker, School of Computer Science, [University of Petroleum and Energy Studies](https://www.upes.ac.in/)
+:sparkles:	RedHat Certified System Administrator (RHCSA) on version 8 [RHEL-8]
 
-:trophy: Intern of the Month (August 2019) [@OpenGenus](https://www.github.com/OpenGenus)
+:sparkles: Red Hat Certified Specialist in Ansible Automation (RHCOE)
 
-:tada: Top 100 in GitHub Actions Hackathon 2020 
+:sparkles: AR-Decor, Certified Startup by Rajasthan Angel Investors and Jaipur Nagar Nigam
 
-:sparkles: Completed #100DaysofCode #100DaysofMLCode and #301DaysofCode challenges.
+:sparkles: Alibaba Cloud Certification on Alibaba Cloud Fundamental Products
+
+:sparkles: Badges - RedHat bade of Curious Contributor
 
 
 ### I :heart: GitHub :octocat:
@@ -50,6 +50,6 @@
 ## Let's Connect :people_holding_hands:
 
 <p align='center'>
-<a href="https://twitter.com/NishkarshRaj1"><img height="30" src="https://github.com/NishkarshRaj/NishkarshRaj/blob/master/img/twitter.png?raw=true"></a>&nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/nishkarshraj/"><img height="30" src="https://github.com/NishkarshRaj/NishkarshRaj/blob/master/img/linkedin.png?raw=true"></a>
+<a href="https://twitter.com/sr_abhayraj"><img height="30" src="https://github.com/srabhayraj/srabhayraj/blob/master/img/twitter.png?raw=true"></a>&nbsp;&nbsp;
+<a href=https://www.linkedin.com/in/abhay-raj-singh-rathore-54078a160"><img height="30" src="https://github.com/srabhayraj/srabhayraj/blob/master/img/linkedin.png?raw=true"></a>
 </p>
