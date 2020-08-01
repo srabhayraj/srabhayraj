@@ -19,9 +19,9 @@
 | :-: | :-: | :-: |
 | Cloud Intern | [LinuxWorld Informatics Pvt. Ltd.](https://www.linuxworldindia.org) | May 2020 - present |
 | Flutter Intern | [LinuxWorld Informatics Pvt. Ltd.](https://www.linuxworldindia.org) | July 2020 - present |
+| Software Engineering Virtual Internship | [JPMorgan Chase & Co.](https://www.insidesherpa.com) | May 2020 - May 2020 |
 | Summer Research Intern | [LinuxWorld Informatics Pvt. Ltd.](https://www.linuxworldindia.org) | June 2019 - August 2019 |
 | Docker Intern | [LinuxWorld Informatics Pvt. Ltd.](https://www.linuxworldindia.org) | March 2020 - May 2020 |
-| Software Engineering Virtual Internship | [JPMorgan Chase & Co.](https://www.insidesherpa.com)
 
 
 ### Achievements and Milestones :crown:
@@ -41,11 +41,11 @@
 
 #### Public Profile stats
 
-![](https://github-readme-stats.vercel.app/api?username=NishkarshRaj&show_icons=true&line_height=30&theme=dark)
+![](https://github-readme-stats.vercel.app/api?username=srabhayraj&show_icons=true&line_height=30&theme=dark)
 
 #### Overall profile stats
 
-![](https://github-readme-stats.vercel.app/api?username=nishkarshraj&count_private=true&theme=merko)
+![](https://github-readme-stats.vercel.app/api?username=srabhayraj&count_private=true&theme=merko)
 
 ## Let's Connect :people_holding_hands:
 
