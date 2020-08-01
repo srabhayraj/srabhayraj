@@ -34,7 +34,7 @@
 
 :sparkles: Alibaba Cloud Certification on Alibaba Cloud Fundamental Products
 
-:sparkles: Badges - RedHat bade of Curious Contributor
+:sparkles: Badges - RedHat badge of Curious Contributor
 
 
 ### I :heart: GitHub :octocat:
