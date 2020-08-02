@@ -59,7 +59,7 @@
 
 ![](https://github-readme-stats.vercel.app/api?username=srabhayraj&count_private=true&theme=merko)
 
-<img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
+
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=srabhayraj&theme=tokyonight)
 
