@@ -51,11 +51,11 @@
 
 ### I :heart: GitHub :octocat:
 
-#### Oberall Public Profile Stats
+#### Public Profile Stats
 
 ![](https://github-readme-stats.vercel.app/api?username=srabhayraj&show_icons=true&line_height=30&theme=dark)
 
-#### Overall profile stats
+#### Overall Profile Stats
 
 ![](https://github-readme-stats.vercel.app/api?username=srabhayraj&count_private=true&theme=merko)
 
