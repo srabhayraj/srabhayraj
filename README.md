@@ -68,4 +68,5 @@
 <p align='center'>
 <a href="https://twitter.com/sr_abhayraj"><img height="30" src="https://github.com/srabhayraj/srabhayraj/blob/master/img/twitter.png?raw=true"></a>&nbsp;&nbsp;
 <a href=https://www.linkedin.com/in/abhay-raj-singh-rathore-54078a160"><img height="30" src="https://github.com/srabhayraj/srabhayraj/blob/master/img/linkedin.png?raw=true"></a>
+<a href="https://www.instagram.com/abhay_raj_sr/"><img height="30" src="https://github.com/srabhayraj/blob/master/img/instagram.png?raw=true"></a>
 </p>
