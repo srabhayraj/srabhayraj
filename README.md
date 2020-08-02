@@ -59,6 +59,10 @@
 
 ![](https://github-readme-stats.vercel.app/api?username=srabhayraj&count_private=true&theme=merko)
 
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=srabhayraj&theme=tokyonight)
+
+
 ## Let's Connect :people_holding_hands:
 
 <p align='center'>
