@@ -61,6 +61,9 @@
 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=srabhayraj&theme=tokyonight)
+![Dino](https://raw.githubusercontent.com/praveenscience/praveenscience/master/dino.gif)
+
+
 
 
 ## Let's Connect :people_holding_hands:
