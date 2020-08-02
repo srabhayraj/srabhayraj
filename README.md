@@ -1,4 +1,12 @@
-## Hello World :sparkling_heart: 👋🏽 
+<p align="center">
+ 
+ 
+ <img src="https://raw.githubusercontent.com/sagar-viradiya/sagar-viradiya/master/resources/banner.png" alt="Hello world">
+
+ 
+ <h2 align="center">Welcome To 12 Grimmauld Place</h2>
+</p>
+
 
 <p align="center"> 
   Visitor count<br>
