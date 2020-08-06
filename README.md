@@ -32,8 +32,8 @@
 | Cloud Intern | [LinuxWorld Informatics Pvt. Ltd.](https://www.linuxworldindia.org) | May 2020 - present |
 | Flutter Intern | [LinuxWorld Informatics Pvt. Ltd.](https://www.linuxworldindia.org) | July 2020 - present |
 | Software Engineering Virtual Internship | [JPMorgan Chase & Co.](https://www.insidesherpa.com) | May 2020 - May 2020 |
-| Summer Research Intern | [LinuxWorld Informatics Pvt. Ltd.](https://www.linuxworldindia.org) | June 2019 - August 2019 |
 | Docker Intern | [LinuxWorld Informatics Pvt. Ltd.](https://www.linuxworldindia.org) | March 2020 - May 2020 |
+| Summer Research Intern | [LinuxWorld Informatics Pvt. Ltd.](https://www.linuxworldindia.org) | June 2019 - August 2019 |
 
 
 ### Achievements and Milestones :crown:
