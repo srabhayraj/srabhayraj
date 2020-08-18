@@ -7,15 +7,9 @@
  <h2 align="center">Welcome To 12 Grimmauld Place</h2>
 </p>
 
-
-<p align="center">
-<a href="https://discord.gg/geJF43E"><img src="https://img.shields.io/static/v1?logo=discord&label=&message=Discord&color=36393f&style=flat-square" alt="Discord"></a>
-<a href="https://github.com/srabhayraj/github-profile-views-counter/blob/master/LICENSE"><img src="https://img.shields.io/github/license/srabhayraj/github-profile-views-counter.svg?style=flat-square" alt="License"></a>
-</p>
-
 <p align="right"> 
   Profile Views<br>
-  <img src="https://profile-counter.glitch.me/srabhayraj/count.svg" />
+  <img height="30" src="https://profile-counter.glitch.me/srabhayraj/count.svg" />
 </p>
 
 ### :open_book: :books: Area of Expertise :closed_book: :green_book:
