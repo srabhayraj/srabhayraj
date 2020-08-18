@@ -9,7 +9,7 @@
 
 <p align="right"> 
   Profile Views<br>
-  <img height="30" src="https://profile-counter.glitch.me/srabhayraj/count.svg" />
+  <img height="25" src="https://profile-counter.glitch.me/srabhayraj/count.svg" />
 </p>
 
 ### :open_book: :books: Area of Expertise :closed_book: :green_book:
