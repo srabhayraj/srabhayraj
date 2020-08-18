@@ -8,10 +8,13 @@
 </p>
 
 
+<img align="right" src="https://rushter.com/counter.svg">
+<!--
 <p align="center"> 
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/srabhayraj/count.svg" />
 </p>
+-->
 
 ### :open_book: :books: Area of Expertise :closed_book: :green_book:
 
