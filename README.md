@@ -13,13 +13,12 @@
 <a href="https://github.com/antonkomarev/github-profile-views-counter/blob/master/LICENSE"><img src="https://img.shields.io/github/license/antonkomarev/github-profile-views-counter.svg?style=flat-square" alt="License"></a>
 </p>
 
-<img align="right" src="https://rushter.com/counter.svg">
-<!--
-<p align="center"> 
-  Visitor count<br>
+<img align="right" src="https://rushter.com/srabhayraj/counter.svg">
+
+<p align="right"> 
+  Profile Views<br>
   <img src="https://profile-counter.glitch.me/srabhayraj/count.svg" />
 </p>
--->
 
 ### :open_book: :books: Area of Expertise :closed_book: :green_book:
 
