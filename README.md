@@ -1,7 +1,9 @@
 <p align="center">
  
  
- <img src="https://raw.githubusercontent.com/sagar-viradiya/sagar-viradiya/master/resources/banner.png" alt="Hello world">
+ <img src="https://raw.githubusercontent.com/sagar-viradiya/sagar-viradiya/master/resources/banner.png" alt="Hello world,
+ I am Abhay, Computer Science Engineer with specialization in Cloud Computing and Virtualization Technology. Proficient in handling large scale undertakings with high durability and Precision. I am an optimistic and self-confident person and try to reflect the idealism of my life towards my dreams and passionately working for it.
+">
 
  
  <h2 align="center">Welcome To 12 Grimmauld Place</h2>
