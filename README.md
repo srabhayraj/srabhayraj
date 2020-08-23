@@ -58,7 +58,8 @@
 
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=srabhayraj&theme=tokyonight)
+[![Abhay's github stats](https://github-readme-stats.vercel.app/api?username=srabhayraj)](https://github.com/srabhayraj/github-readme-stats)
+
 
 
 
