@@ -22,6 +22,7 @@
 <code><img height="50" src="https://github.com/srabhayraj/srabhayraj/blob/master/img/cpp.png"></code>
 <code><img height="50" src="https://github.com/srabhayraj/srabhayraj/blob/master/img/python.jpg"></code>
 <code><img height="50" src="https://github.com/srabhayraj/srabhayraj/blob/master/img/shell.jpg"></code>
+ <code><img height="50" src="https://github.com/srabhayraj/srabhayraj/blob/master/img/linux.jpg"></code>
 </p>
 
 #### DevOps
@@ -49,21 +50,22 @@
 
 <p align='center'>
   <code><img height="50" src="https://github.com/srabhayraj/srabhayraj/blob/master/img/html.png"></code>
-  <code><img height="60" src="https://github.com/srabhayraj/srabhayraj/blob/master/img/css.jpg"></code>
-  <code><img height="60" src="https://github.com/srabhayraj/srabhayraj/blob/master/img/javascript.png"></code>
-  <code><img height="60" src="https://github.com/srabhayraj/srabhayraj/blob/master/img/react.png"></code>
+  <code><img height="50" src="https://github.com/srabhayraj/srabhayraj/blob/master/img/css.jpg"></code>
+  <code><img height="50" src="https://github.com/srabhayraj/srabhayraj/blob/master/img/javascript.png"></code>
 </p>
 
 #### Big Data
 
 <p align='center'>
-  <code><img height="60" src="https://github.com/srabhayraj/srabhayraj/blob/master/img/Hadoop.png"></code>
+  <code><img height="50" src="https://github.com/srabhayraj/srabhayraj/blob/master/img/Hadoop.png"></code>
 </p>
 
 #### Operating System
 
 <p align='center'>
-  <code><img height="50" src="https://github.com/srabhayraj/srabhayraj/blob/master/img/Hadoop.png"></code>
+  <code><img height="50" src="https://github.com/srabhayraj/srabhayraj/blob/master/img/windows.png"></code>
+  <code><img height="50" src="https://github.com/srabhayraj/srabhayraj/blob/master/img/ubuntu.jpeg"></code>
+  <code><img height="50" src="https://github.com/srabhayraj/srabhayraj/blob/master/img/redhat.jpg"></code>
 </p>
 
 
