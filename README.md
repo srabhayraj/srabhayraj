@@ -13,11 +13,11 @@
   <img height="25" src="https://profile-counter.glitch.me/srabhayraj/count.svg" />
 </p>
 
-### Familiar with:
+### I've worked on:
 
 #### Programming
 
-<p align='center'>
+<p align='left'>
 <code><img height="50" src="https://github.com/srabhayraj/srabhayraj/blob/master/img/c.png"></code>
 <code><img height="50" src="https://github.com/srabhayraj/srabhayraj/blob/master/img/cpp.png"></code>
 <code><img height="50" src="https://github.com/srabhayraj/srabhayraj/blob/master/img/python.jpg"></code>
@@ -68,23 +68,6 @@
   <code><img height="50" src="https://github.com/srabhayraj/srabhayraj/blob/master/img/redhat.png"></code>
 </p>
 
-
-### I :heart: GitHub :octocat:
-
-![](https://github-readme-stats.vercel.app/api?username=nishkarshraj&count_private=true&theme=merko)
-
-
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kubernetes/kubernetes.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terraform/terraform.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ansible/ansible.png"></code>
-<code><img height="40" src="https://github.com/srabhayraj/srabhayraj/blob/master/img/Jenkins.jpg"></code>
-<code><img height="40" src="https://github.com/srabhayraj/srabhayraj/blob/master/img/Hadoop.png"></code>
 
 ### Work Experience :computer_mouse: :desktop_computer: :keyboard:
 
