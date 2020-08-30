@@ -57,15 +57,15 @@
 #### Big Data
 
 <p align='center'>
-  <code><img height="50" src="https://github.com/srabhayraj/srabhayraj/blob/master/img/Hadoop.png"></code>
+  <code><img height="50" src="https://github.com/srabhayraj/srabhayraj/blob/master/img/hadoop.png"></code>
 </p>
 
 #### Operating System
 
 <p align='center'>
   <code><img height="50" src="https://github.com/srabhayraj/srabhayraj/blob/master/img/windows.png"></code>
-  <code><img height="50" src="https://github.com/srabhayraj/srabhayraj/blob/master/img/ubuntu.jpeg"></code>
-  <code><img height="50" src="https://github.com/srabhayraj/srabhayraj/blob/master/img/redhat.jpg"></code>
+  <code><img height="50" src="https://github.com/srabhayraj/srabhayraj/blob/master/img/ubuntu.jpg"></code>
+  <code><img height="50" src="https://github.com/srabhayraj/srabhayraj/blob/master/img/redhat.png"></code>
 </p>
 
 
