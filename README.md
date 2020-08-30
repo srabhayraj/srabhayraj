@@ -17,7 +17,7 @@
 
 #### Programming
 
-<p align='left'>
+<p align='center'>
 <code><img height="50" src="https://github.com/srabhayraj/srabhayraj/blob/master/img/c.png"></code>
 <code><img height="50" src="https://github.com/srabhayraj/srabhayraj/blob/master/img/cpp.png"></code>
 <code><img height="50" src="https://github.com/srabhayraj/srabhayraj/blob/master/img/python.jpg"></code>
@@ -93,7 +93,7 @@
 :sparkles: Badges - RedHat badge of Curious Contributor
 
 
-### I :heart: GitHub :octocat:
+### Github Statistics
 
 #### Overall Profile Stats
 
@@ -109,3 +109,7 @@
 <a href="https://twitter.com/sr_abhayraj"><img height="30" src="https://github.com/srabhayraj/srabhayraj/blob/master/img/twitter.png?raw=true"></a>&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/abhay-raj-singh-rathore-54078a160"><img height="30" src="https://github.com/srabhayraj/srabhayraj/blob/master/img/linkedin.png?raw=true"></a>
 </p>
+
+---
+
+#### 🔗 Know more about me here: [srabhayraj](https://thesocialcomment.com/sr/portfolio)
