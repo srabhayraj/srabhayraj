@@ -13,7 +13,51 @@
   <img height="25" src="https://profile-counter.glitch.me/srabhayraj/count.svg" />
 </p>
 
-### :open_book: :books: Area of Expertise :closed_book: :green_book:
+### Familiar with:
+
+#### Programming
+
+<p align='center'>
+<code><img height="50" src="https://github.com/srabhayraj/srabhayraj/blob/master/img/c.png"></code>
+<code><img height="50" src="https://github.com/srabhayraj/srabhayraj/blob/master/img/cpp.png"></code>
+<code><img height="50" src="https://github.com/srabhayraj/srabhayraj/blob/master/img/python.jpg"></code>
+<code><img height="50" src="https://github.com/srabhayraj/srabhayraj/blob/master/img/shell.jpg"></code>
+</p>
+
+#### DevOps
+
+<p align='center'>
+<code><img height="50" src="https://github.com/srabhayraj/srabhayraj/blob/master/img/github.png"></code>
+  <code><img height="50" src="https://github.com/srabhayraj/srabhayraj/blob/master/img/gitlab.png"></code>
+  <code><img height="50" src="https://github.com/srabhayraj/srabhayraj/blob/master/img/maven.jpg"></code>
+  <code><img height="50" src="https://github.com/srabhayraj/srabhayraj/blob/master/img/jenkins.jpg"></code>
+  <code><img height="50" src="https://github.com/srabhayraj/srabhayraj/blob/master/img/docker.png"></code>
+  <code><img height="50" src="https://github.com/srabhayraj/srabhayraj/blob/master/img/kubernetes.png"></code>
+  <code><img height="50" src="https://github.com/srabhayraj/srabhayraj/blob/master/img/nexus.png"></code>
+</p>
+
+#### Cloud Computing
+
+<p align='center'>
+  <code><img height="60" src="https://github.com/srabhayraj/srabhayraj/blob/master/img/aws.jpg"></code>
+  <code><img height="60" src="https://github.com/srabhayraj/srabhayraj/blob/master/img/gcp.png"></code>
+  <code><img height="60" src="https://github.com/srabhayraj/srabhayraj/blob/master/img/ansible.png"></code>
+  <code><img height="60" src="https://github.com/srabhayraj/srabhayraj/blob/master/img/terraform.png"></code>
+</p>
+
+#### Web Development
+
+<p align='center'>
+  <code><img height="60" src="https://github.com/srabhayraj/srabhayraj/blob/master/img/html.png"></code>
+  <code><img height="60" src="https://github.com/srabhayraj/srabhayraj/blob/master/img/css.jpg"></code>
+  <code><img height="60" src="https://github.com/srabhayraj/srabhayraj/blob/master/img/javascript.png"></code>
+  <code><img height="60" src="https://github.com/srabhayraj/srabhayraj/blob/master/img/react.png"></code>
+</p>
+
+### I :heart: GitHub :octocat:
+
+![](https://github-readme-stats.vercel.app/api?username=nishkarshraj&count_private=true&theme=merko)
+
 
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kubernetes/kubernetes.png"></code>
