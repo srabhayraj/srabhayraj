@@ -28,7 +28,7 @@
 
 <p align='center'>
 <code><img height="50" src="https://github.com/srabhayraj/srabhayraj/blob/master/img/github.png"></code>
-  <code><img height="50" src="https://github.com/srabhayraj/srabhayraj/blob/master/img/gitlab.png"></code>
+  <code><img height="50" src="https://github.com/srabhayraj/srabhayraj/blob/master/img/git.png"></code>
   <code><img height="50" src="https://github.com/srabhayraj/srabhayraj/blob/master/img/maven.jpg"></code>
   <code><img height="50" src="https://github.com/srabhayraj/srabhayraj/blob/master/img/jenkins.jpg"></code>
   <code><img height="50" src="https://github.com/srabhayraj/srabhayraj/blob/master/img/docker.png"></code>
@@ -39,20 +39,33 @@
 #### Cloud Computing
 
 <p align='center'>
-  <code><img height="60" src="https://github.com/srabhayraj/srabhayraj/blob/master/img/aws.jpg"></code>
-  <code><img height="60" src="https://github.com/srabhayraj/srabhayraj/blob/master/img/gcp.png"></code>
-  <code><img height="60" src="https://github.com/srabhayraj/srabhayraj/blob/master/img/ansible.png"></code>
-  <code><img height="60" src="https://github.com/srabhayraj/srabhayraj/blob/master/img/terraform.png"></code>
+  <code><img height="50" src="https://github.com/srabhayraj/srabhayraj/blob/master/img/aws.jpg"></code>
+  <code><img height="50" src="https://github.com/srabhayraj/srabhayraj/blob/master/img/gcp.png"></code>
+  <code><img height="50" src="https://github.com/srabhayraj/srabhayraj/blob/master/img/ansible.png"></code>
+  <code><img height="50" src="https://github.com/srabhayraj/srabhayraj/blob/master/img/terraform.png"></code>
 </p>
 
 #### Web Development
 
 <p align='center'>
-  <code><img height="60" src="https://github.com/srabhayraj/srabhayraj/blob/master/img/html.png"></code>
+  <code><img height="50" src="https://github.com/srabhayraj/srabhayraj/blob/master/img/html.png"></code>
   <code><img height="60" src="https://github.com/srabhayraj/srabhayraj/blob/master/img/css.jpg"></code>
   <code><img height="60" src="https://github.com/srabhayraj/srabhayraj/blob/master/img/javascript.png"></code>
   <code><img height="60" src="https://github.com/srabhayraj/srabhayraj/blob/master/img/react.png"></code>
 </p>
+
+#### Big Data
+
+<p align='center'>
+  <code><img height="60" src="https://github.com/srabhayraj/srabhayraj/blob/master/img/Hadoop.png"></code>
+</p>
+
+#### Operating System
+
+<p align='center'>
+  <code><img height="50" src="https://github.com/srabhayraj/srabhayraj/blob/master/img/Hadoop.png"></code>
+</p>
+
 
 ### I :heart: GitHub :octocat:
 
