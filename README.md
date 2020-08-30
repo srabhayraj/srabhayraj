@@ -13,7 +13,7 @@
   <img height="25" src="https://profile-counter.glitch.me/srabhayraj/count.svg" />
 </p>
 
-### I've worked on:
+### I've worked on :laptop_computer:
 
 #### Programming
 
@@ -93,7 +93,7 @@
 :sparkles: Badges - RedHat badge of Curious Contributor
 
 
-### Github Statistics
+### Github Statistics :chart_increasing: :bar_chart:
 
 #### Overall Profile Stats
 
