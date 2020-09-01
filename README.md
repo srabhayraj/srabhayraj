@@ -30,7 +30,6 @@
 <p align='center'>
 <code><img height="50" src="https://github.com/srabhayraj/srabhayraj/blob/master/img/github.png"></code>
   <code><img height="50" src="https://github.com/srabhayraj/srabhayraj/blob/master/img/git.png"></code>
-  <code><img height="50" src="https://github.com/srabhayraj/srabhayraj/blob/master/img/maven.jpg"></code>
   <code><img height="50" src="https://github.com/srabhayraj/srabhayraj/blob/master/img/jenkins.jpg"></code>
   <code><img height="50" src="https://github.com/srabhayraj/srabhayraj/blob/master/img/docker.png"></code>
   <code><img height="50" src="https://github.com/srabhayraj/srabhayraj/blob/master/img/kubernetes.png"></code>
