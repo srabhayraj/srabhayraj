@@ -69,7 +69,7 @@
 </p>
 
 
-### Work Experience :computer_mouse: :desktop_computer: :keyboard:
+### Work Experience :desktop_computer: 
 
 | Position | Organization | Timeline |
 | :-: | :-: | :-: |
