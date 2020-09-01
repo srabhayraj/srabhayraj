@@ -95,8 +95,6 @@
 
 ### Github Statistics 📈 :bar_chart:
 
-#### Overall Profile Stats
-
 ![](https://github-readme-stats.vercel.app/api?username=srabhayraj&count_private=true&show_icons=true&line_height=30&theme=light)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=srabhayraj&show_icons=true&line_height=30&theme=light)](https://github.com/srabhayraj/github-readme-stats)
 
