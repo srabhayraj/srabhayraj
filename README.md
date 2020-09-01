@@ -97,10 +97,14 @@
 
 #### Overall Profile Stats
 
+<a href="https://github.com/srabhayraj">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=srabhayraj&theme=light&hide_langs_below=1" />
+</a>
+<a href="https://github.com/srabhayraj">
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=srabhayraj&show_icons=true&theme=light&line_height=27" alt="Abhay's Github Stats"/>
+</a>
+
 ![](https://github-readme-stats.vercel.app/api?username=srabhayraj&count_private=true&show_icons=true&line_height=30&theme=dark)
-
-
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=srabhayraj&show_icons=true&line_height=30&theme=dark)](https://github.com/srabhayraj/github-readme-stats)
 
 ## Let's Connect :people_holding_hands:
