@@ -55,7 +55,7 @@
 
 | Position | Organization | Timeline |
 | :-: | :-: | :-: |
-| Cloud Intern | [LinuxWorld Informatics Pvt. Ltd.](https://www.linuxworldindia.org) | May 2020 - present |
+| Cloud Intern | [LinuxWorld Informatics Pvt. Ltd.](https://www.linuxworldindia.org) | May 2020 - Aug 2020 |
 | Oracle Cloud Infrastructure Training | [Oracle Corporation](https://www.oracle.com/index.html) | May 2020 - June 2020 |
 | Software Engineering Virtual Internship | [JPMorgan Chase & Co.](https://www.insidesherpa.com) | May 2020 - May 2020 |
 | Docker Intern | [LinuxWorld Informatics Pvt. Ltd.](https://www.linuxworldindia.org) | March 2020 - May 2020 |
