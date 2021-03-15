@@ -21,7 +21,6 @@
 <code><img height="50" src="https://github.com/srabhayraj/srabhayraj/blob/master/img/c.png"></code>
 <code><img height="50" src="https://github.com/srabhayraj/srabhayraj/blob/master/img/cpp.png"></code>
 <code><img height="50" src="https://github.com/srabhayraj/srabhayraj/blob/master/img/python.jpg"></code>
-<code><img height="50" src="https://github.com/srabhayraj/srabhayraj/blob/master/img/shell.jpg"></code>
  <code><img height="50" src="https://github.com/srabhayraj/srabhayraj/blob/master/img/linux.jpg"></code>
 </p>
 
@@ -32,8 +31,6 @@
   <code><img height="50" src="https://github.com/srabhayraj/srabhayraj/blob/master/img/git.png"></code>
   <code><img height="50" src="https://github.com/srabhayraj/srabhayraj/blob/master/img/jenkins.jpg"></code>
   <code><img height="50" src="https://github.com/srabhayraj/srabhayraj/blob/master/img/docker.png"></code>
-  <code><img height="50" src="https://github.com/srabhayraj/srabhayraj/blob/master/img/kubernetes.png"></code>
-  <code><img height="50" src="https://github.com/srabhayraj/srabhayraj/blob/master/img/nexus.png"></code>
 </p>
 
 #### Cloud Computing
@@ -42,21 +39,6 @@
   <code><img height="50" src="https://github.com/srabhayraj/srabhayraj/blob/master/img/aws.jpg"></code>
   <code><img height="50" src="https://github.com/srabhayraj/srabhayraj/blob/master/img/gcp.png"></code>
   <code><img height="50" src="https://github.com/srabhayraj/srabhayraj/blob/master/img/ansible.png"></code>
-  <code><img height="50" src="https://github.com/srabhayraj/srabhayraj/blob/master/img/terraform.png"></code>
-</p>
-
-#### Web Development
-
-<p align='center'>
-  <code><img height="50" src="https://github.com/srabhayraj/srabhayraj/blob/master/img/html.png"></code>
-  <code><img height="50" src="https://github.com/srabhayraj/srabhayraj/blob/master/img/css.jpg"></code>
-  <code><img height="50" src="https://github.com/srabhayraj/srabhayraj/blob/master/img/javascript.png"></code>
-</p>
-
-#### Big Data
-
-<p align='center'>
-  <code><img height="50" src="https://github.com/srabhayraj/srabhayraj/blob/master/img/hadoop.png"></code>
 </p>
 
 #### Operating System
